@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">My Custom Application</string>
+
+    <string-array name="product">
+        <item>Sugar</item>
+        <item>Rice</item>
+        <item>Wheat</item>
+        <item>Salt</item>
+        <item>Tea</item>
+        <item>Milk powder</item>
+        <item>coffee</item>
+        <item>Oil</item>
+        <item>Vinegar</item>
+        <item>Soap</item>
+        <item>Chilli Powder</item>
+        <item>Everest Masala</item>
+        <item>Biscuit</item>
+        <item>Snacks</item>
+        <item>Potato</item>
+        <item>Tomato</item>
+        <item>Corn</item>
+        <item>popcorn</item>
+        <item>Sweet</item>
+        <item>Chips</item>
+        <item>Sauce</item>
+        <item>Carrot</item>
+        <item>Ginger</item>
+        <item>Lady Finger</item>
+        <item>Matar</item>
+        <item>Cabage</item>
+        <item>Paneer</item>
+        <item>Green Peas</item>
+        <item>Onion</item>
+        <item>Garlic</item>
+        <item>Moong Dal</item>
+        <item>Brinjal</item>
+        <item>Bajra</item>
+        <item>Jasmin oil</item>
+        <item>Pinuts</item>
+        <item>Cashinut</item>
+        <item>Dry Fruits</item>
+        <item>Orange</item>
+        <item>Mango</item>
+        <item>Banana</item>
+        <item>Apple</item>
+        <item>Pineapple</item>
+        <item>Watermelon</item>
+        <item>Chiku</item>
+        <item>Coconut</item>
+        <item>Papaya</item>
+        <item>Grapes</item>
+        <item>Lemon</item>
+        <item>Chocolates</item>
+        <item>ChocoMilk</item>
+    </string-array>
+
+    <integer-array name="price">
+        <item>40</item>
+        <item>50</item>
+        <item>55</item>
+        <item>70</item>
+        <item>65</item>
+        <item>54</item>
+        <item>45</item>
+        <item>70</item>
+        <item>60</item>
+        <item>50</item>
+        <item>55</item>
+        <item>70</item>
+        <item>65</item>
+        <item>84</item>
+        <item>50</item>
+        <item>60</item>
+        <item>90</item>
+        <item>60</item>
+        <item>55</item>
+        <item>70</item>
+        <item>65</item>
+        <item>54</item>
+        <item>60</item>
+        <item>80</item>
+        <item>60</item>
+        <item>50</item>
+        <item>55</item>
+        <item>70</item>
+        <item>65</item>
+        <item>54</item>
+        <item>50</item>
+        <item>60</item>
+        <item>30</item>
+        <item>50</item>
+        <item>55</item>
+        <item>50</item>
+        <item>65</item>
+        <item>64</item>
+        <item>40</item>
+        <item>90</item>
+        <item>50</item>
+        <item>60</item>
+        <item>75</item>
+        <item>70</item>
+        <item>65</item>
+        <item>54</item>
+        <item>40</item>
+        <item>60</item>
+        <item>65</item>
+        <item>95</item>
+    </integer-array>
+
+    <integer-array name="img">
+        <item>@drawable/Sugar</item>
+        <item>@drawable/Rice</item>
+        <item>@drawable/Wheat</item>
+        <item>@drawable/Salt</item>
+        <item>@drawable/Tea</item>
+        <item>@drawable/MilkPowder</item>
+        <item>@drawable/Coffee</item>
+        <item>@drawable/Oil</item>
+        <item>@drawable/Vinegar</item>
+        <item>@drawable/Soap</item>
+        <item>@drawable/ChilliPowder</item>
+        <item>@drawable/EverestMasala</item>
+        <item>@drawable/Biscuits</item>
+        <item>@drawable/Snacks</item>
+        <item>@drawable/Potato</item>
+        <item>@drawable/Tomato</item>
+        <item>@drawable/Corn</item>
+        <item>@drawable/Popcorn</item>
+        <item>@drawable/Sweet</item>
+        <item>@drawable/Chips</item>
+        <item>@drawable/Sauce</item>
+        <item>@drawable/Carrot</item>
+        <item>@drawable/Ginger</item>
+        <item>@drawable/LadyFinger</item>
+        <item>@drawable/Matar</item>
+        <item>@drawable/Cabage</item>
+        <item>@drawable/Paneer</item>
+        <item>@drawable/GreenPeas</item>
+        <item>@drawable/Onion</item>
+        <item>@drawable/Garlic</item>
+        <item>@drawable/MoongDal</item>
+        <item>@drawable/Brinjal</item>
+        <item>@drawable/Bajra</item>
+        <item>@drawable/JasmineOil</item>
+        <item>@drawable/Peanuts</item>
+        <item>@drawable/Cashinut</item>
+        <item>@drawable/DryFruits</item>
+        <item>@drawable/Orange</item>
+        <item>@drawable/Mango</item>
+        <item>@drawable/Banana</item>
+        <item>@drawable/Apple</item>
+        <item>@drawable/Pineapple</item>
+        <item>@drawable/Watermelon</item>
+        <item>@drawable/Chiku</item>
+        <item>@drawable/Coconut</item>
+        <item>@drawable/Papaya</item>
+        <item>@drawable/Grapes</item>
+        <item>@drawable/Lemon</item>
+        <item>@drawable/Chocolates</item>
+        <item>@drawable/ChocoMilk</item>
+
+    </integer-array>
+</resources>
